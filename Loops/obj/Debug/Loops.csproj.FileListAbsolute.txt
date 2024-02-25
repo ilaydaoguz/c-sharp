@@ -1,0 +1,7 @@
+C:\microservices\freestyle\TypesAndVariables\Loops\bin\Debug\Loops.exe.config
+C:\microservices\freestyle\TypesAndVariables\Loops\bin\Debug\Loops.exe
+C:\microservices\freestyle\TypesAndVariables\Loops\bin\Debug\Loops.pdb
+C:\microservices\freestyle\TypesAndVariables\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\microservices\freestyle\TypesAndVariables\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\microservices\freestyle\TypesAndVariables\Loops\obj\Debug\Loops.exe
+C:\microservices\freestyle\TypesAndVariables\Loops\obj\Debug\Loops.pdb

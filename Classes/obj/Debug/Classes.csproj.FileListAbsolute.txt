@@ -1,0 +1,7 @@
+C:\microservices\freestyle\TypesAndVariables\Classes\bin\Debug\Classes.exe.config
+C:\microservices\freestyle\TypesAndVariables\Classes\bin\Debug\Classes.exe
+C:\microservices\freestyle\TypesAndVariables\Classes\bin\Debug\Classes.pdb
+C:\microservices\freestyle\TypesAndVariables\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\microservices\freestyle\TypesAndVariables\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\microservices\freestyle\TypesAndVariables\Classes\obj\Debug\Classes.exe
+C:\microservices\freestyle\TypesAndVariables\Classes\obj\Debug\Classes.pdb

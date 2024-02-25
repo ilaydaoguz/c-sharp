@@ -1,0 +1,7 @@
+C:\microservices\freestyle\TypesAndVariables\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\microservices\freestyle\TypesAndVariables\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\microservices\freestyle\TypesAndVariables\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\microservices\freestyle\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\microservices\freestyle\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\microservices\freestyle\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\microservices\freestyle\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.pdb
